@@ -1,4 +1,4 @@
-# The Antoni Corpus — Pipeline
+# The Antoni Corpus Pipeline
 
 Code for building and analysing a multilingual parallel corpus of Antoni van
 Leeuwenhoek's letters (17th/18th c.) and their English translations originally
