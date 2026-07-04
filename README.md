@@ -1,9 +1,9 @@
 # The Antoni Corpus — Pipeline
 
 Code for building and analysing a multilingual parallel corpus of Antoni van
-Leeuwenhoek's letters (17th/18th c.) and their English translations — originally
+Leeuwenhoek's letters (17th/18th c.) and their English translations originally
 my B.A. thesis (*A Linguistic Investigation of Historical Scientific Texts*,
-University of Mannheim, 2025), now being extended towards publication at the
+University of Mannheim, 2025), now being extended at the
 University of Stuttgart.
 
 ## Research question
