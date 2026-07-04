@@ -1,0 +1,12 @@
+pandas
+numpy
+requests
+openpyxl
+google-cloud-vision
+spacy
+matplotlib
+seaborn
+scipy
+statsmodels
+pingouin
+openai

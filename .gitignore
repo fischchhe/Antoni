@@ -1,0 +1,22 @@
+# credentials — never commit these
+.env
+*credentials*.json
+
+# data — corpus texts are not redistributable
+data/
+downloaded_pdfs/
+*.pdf
+*.png
+*.csv
+*.xlsx
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# os / editor
+.DS_Store
+.idea/
+.vscode/
